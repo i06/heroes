@@ -5,6 +5,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
+## 说明
+这是跟着 AngularJS 的教程一步步做出来的，License 应该为教程中的 MIT
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
